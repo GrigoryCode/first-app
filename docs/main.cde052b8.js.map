@@ -1,1 +1,0 @@
-{"version":3,"sources":["main.js"],"names":["console","log"],"mappings":";;;AAEA,aAFA,QAAA,eAEAA,QAAQC,IAAI","file":"main.cde052b8.js","sourceRoot":"../src","sourcesContent":["import './main.scss'\n\nconsole.log('hello world');"]}
