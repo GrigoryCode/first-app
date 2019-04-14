@@ -1,10 +1,9 @@
-img.profile__img {
+img.skills__img {
     display: inline-block;
     vertical-align: middle;
-    fill: red;
 }
 
-p.profile__title {
+p.skills__title {
     // width: 233px;
     height: 56px;
     color: #3d6cb0;
@@ -16,7 +15,7 @@ p.profile__title {
     margin: 0;
 }
 
-hr.profile__line {
+hr.skills__line {
     border: none;
     background-color: #3d6cb0;
     height: 8px;
@@ -26,11 +25,12 @@ hr.profile__line {
     margin: 0;
 }
 
-p.profile__text {
-    // width: 639px;
-    // height: 367px;
+p.skills__header {
+    width: 154px;
+    height: 28px;
     color: #000000;
     font-family: "Myriad Pro";
-    font-size: 24px;
+    font-size: 40px;
     font-weight: 400;
+    text-transform: uppercase;
 }

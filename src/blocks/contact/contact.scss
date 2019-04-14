@@ -1,10 +1,9 @@
-img.profile__img {
+img.contact__img {
     display: inline-block;
     vertical-align: middle;
-    fill: red;
 }
 
-p.profile__title {
+p.contact__title {
     // width: 233px;
     height: 56px;
     color: #3d6cb0;
@@ -16,7 +15,7 @@ p.profile__title {
     margin: 0;
 }
 
-hr.profile__line {
+hr.contact__line {
     border: none;
     background-color: #3d6cb0;
     height: 8px;
@@ -26,11 +25,12 @@ hr.profile__line {
     margin: 0;
 }
 
-p.profile__text {
-    // width: 639px;
-    // height: 367px;
-    color: #000000;
+p.contact__header {
+    // width: 136px;
+    // height: 23px;
+    color: #3d6cb0;
     font-family: "Myriad Pro";
-    font-size: 24px;
-    font-weight: 400;
+    font-size: 32px;
+    font-weight: 700;
+    text-transform: uppercase;
 }
