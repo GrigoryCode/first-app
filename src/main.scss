@@ -1,5 +1,15 @@
-@import './blocks/1/1.scss';
+@import './blocks/first/first.scss';
 
-h1 {
-    color: tomato;
-}
+@font-face{
+    font-family: 'Myriad Pro - Light Semi Ext';
+    src: url('./fonts/Myriad-Pro-Light-SemiExtended.ttf');
+    font-weight: normal;
+    font-style: normal;
+    }
+
+@font-face{
+    font-family: 'Myriad Pro';
+    src: url('./fonts/Myriad-Pro.ttf');
+    font-weight: normal;
+    font-style: normal;
+    }
