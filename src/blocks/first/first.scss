@@ -1,7 +1,7 @@
-.first-block {
+.first {
 }
 
-.round-outer {
+.first__round-outer {
   width: 360px;
   height: 360px;
   border: 2px solid #3d6cb0;
@@ -11,7 +11,7 @@
   margin-top: 130px;
 }
 
-.round-inner {
+.first__round-inner {
   width: 315px;
   height: 315px;
   background-color: #3d6cb0;
@@ -24,7 +24,7 @@
   margin: auto;
 }
 
-p.name {
+p.first__name {
   font-size: 81px;
   color: #000000;
   font-family: "Myriad Pro Light Semi Ext";
@@ -34,7 +34,7 @@ p.name {
   margin: 40px 0 0 0;
 }
 
-p.surname {
+p.first__surname {
   color: #000000;
   font-family: "Myriad Pro";
   font-size: 96px;
@@ -44,7 +44,7 @@ p.surname {
   margin: 0;
 }
 
-p.job {
+p.first__job {
   color: #000000;
   font-family: "Myriad Pro";
   font-size: 39px;
