@@ -1,3 +1,7 @@
+.profile {
+    margin-top: 110px;
+}
+
 img.profile__img {
     display: inline-block;
     vertical-align: middle;
@@ -33,4 +37,6 @@ p.profile__text {
     font-family: "Myriad Pro";
     font-size: 24px;
     font-weight: 400;
+    line-height: 1.2;
+
 }

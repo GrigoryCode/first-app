@@ -1,3 +1,7 @@
+.contact {
+    margin-top: 70px;
+}
+
 img.contact__img {
     display: inline-block;
     vertical-align: middle;
@@ -25,7 +29,12 @@ hr.contact__line {
     margin: 0;
 }
 
-p.contact__header {
+table.contact__table {
+    margin-top: 40px;
+    display: inline-block;
+}
+
+td.contact__head {
     // width: 136px;
     // height: 23px;
     color: #3d6cb0;
@@ -33,4 +42,16 @@ p.contact__header {
     font-size: 32px;
     font-weight: 700;
     text-transform: uppercase;
+    height: 80px;
+    width: 200px;
+}
+
+td.contact__text {
+    width: 289px;
+    height: 27px;
+    color: #000000;
+    font-family: "Myriad Pro";
+    font-size: 32px;
+    font-weight: 400;
+    margin-bottom: 70px;
 }
