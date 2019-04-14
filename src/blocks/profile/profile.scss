@@ -1,0 +1,37 @@
+img.profile__img {
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+
+p.profile__title {
+    width: 233px;
+    height: 45px;
+    color: #3d6cb0;
+    font-family: "Myriad Pro";
+    font-size: 64px;
+    font-weight: 700;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+    height: 45px;
+}
+
+hr.profile__line {
+    border: none; /* Убираем границу */
+    background-color: #3d6cb0;
+    height: 9px; /* Толщина линии */
+    width: 261px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+}
+
+p.profile__text {
+    width: 639px;
+    height: 367px;
+    color: #000000;
+    font-family: "Myriad Pro";
+    font-size: 24px;
+    font-weight: 400;
+}
