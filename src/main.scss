@@ -17,3 +17,19 @@
     font-weight: normal;
     font-style: normal;
     }
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.left-side {
+    flex: 2;
+    margin: 0 80px;
+}
+
+.right-side {
+    flex: 3;
+    margin: 0 80px;
+
+}
