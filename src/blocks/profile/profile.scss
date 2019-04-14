@@ -1,12 +1,12 @@
 img.profile__img {
     display: inline-block;
     vertical-align: middle;
-    
+    fill: red;
 }
 
 p.profile__title {
-    width: 233px;
-    height: 45px;
+    // width: 233px;
+    height: 60px;
     color: #3d6cb0;
     font-family: "Myriad Pro";
     font-size: 64px;
@@ -14,13 +14,12 @@ p.profile__title {
     display: inline-block;
     vertical-align: middle;
     margin: 0;
-    height: 45px;
 }
 
 hr.profile__line {
-    border: none; /* Убираем границу */
+    border: none;
     background-color: #3d6cb0;
-    height: 9px; /* Толщина линии */
+    height: 8px;
     width: 261px;
     display: inline-block;
     vertical-align: middle;
@@ -28,8 +27,8 @@ hr.profile__line {
 }
 
 p.profile__text {
-    width: 639px;
-    height: 367px;
+    // width: 639px;
+    // height: 367px;
     color: #000000;
     font-family: "Myriad Pro";
     font-size: 24px;
