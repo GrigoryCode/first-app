@@ -1,7 +1,7 @@
-.first {
+.card {
 }
 
-.first__round-outer {
+.card__round-outer {
   width: 360px;
   height: 360px;
   border: 2px solid #3d6cb0;
@@ -11,7 +11,7 @@
   margin-top: 130px;
 }
 
-.first__round-inner {
+.card__round-inner {
   width: 315px;
   height: 315px;
   background-color: #3d6cb0;
@@ -24,7 +24,7 @@
   margin: auto;
 }
 
-p.first__name {
+p.card__name {
   font-size: 81px;
   color: #000000;
   font-family: "Myriad Pro Light Semi Ext";
@@ -34,7 +34,7 @@ p.first__name {
   margin: 40px 0 0 0;
 }
 
-p.first__surname {
+p.card__surname {
   color: #000000;
   font-family: "Myriad Pro";
   font-size: 96px;
@@ -44,7 +44,7 @@ p.first__surname {
   margin: 0;
 }
 
-p.first__job {
+p.card__job {
   color: #000000;
   font-family: "Myriad Pro";
   font-size: 39px;
