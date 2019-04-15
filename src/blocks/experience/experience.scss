@@ -1,9 +1,9 @@
-img.education__img {
+img.experience__img {
     display: inline-block;
     vertical-align: middle;
 }
 
-p.education__title {
+p.experience__title {
     // width: 233px;
     height: 56px;
     color: #3d6cb0;
@@ -15,7 +15,7 @@ p.education__title {
     margin: 0;
 }
 
-hr.education__line {
+hr.experience__line {
     border: none;
     background-color: #3d6cb0;
     height: 8px;
@@ -25,14 +25,14 @@ hr.education__line {
     margin: 0;
 }
 
-li.education__li {
+li.experience__li {
     list-style: square url("./img/circle.png");
 }
 
-p.education__master {
-    // width: 296px;
+p.experience__company {
+    // width: 298px;
     // height: 28px;
-    color: #3d6cb0;
+    color: #000000;
     font-family: "Myriad Pro";
     font-size: 40px;
     font-weight: 700;
@@ -40,7 +40,7 @@ p.education__master {
     display: inline-block;
 }
 
-p.education__date {
+p.experience__date {
     // width: 365px;
     // height: 32px;
     color: #020202;
@@ -50,7 +50,7 @@ p.education__date {
     display: inline-block;
 }
 
-p.education__university {
+p.experience__job {
     // width: 303px;
     // height: 28px;
     color: #000000;
@@ -60,7 +60,7 @@ p.education__university {
     text-transform: uppercase;
 }
 
-p.education__text {
+p.experience__text {
     // width: 860px;
     // height: 80px;
     color: #000000;

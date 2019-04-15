@@ -3,6 +3,7 @@
 @import './blocks/contact/contact.scss';
 @import './blocks/skills/skills.scss';
 @import './blocks/education/education.scss';
+@import './blocks/experience/experience.scss';
 
 @font-face{
     font-family: 'Myriad Pro Light Semi Ext';
@@ -17,6 +18,10 @@
     font-weight: normal;
     font-style: normal;
     }
+
+* {
+    margin: 0;
+}
 
 .content {
     display: flex;
