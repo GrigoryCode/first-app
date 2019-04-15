@@ -29,43 +29,17 @@
     flex-direction: column;
     flex-wrap: wrap;
     height: 2570px;
-    justify-content: space-between;
+    // justify-content: space-around;
     // align-items: center;
     // margin: auto;
-    // width: 1920px;
+    // width: 1720px;
+    // margin: 0 100
 }
 
-.card {
-    width: 40%;
-    border: 1px solid #333;
+.left {
+    width: 35%;
 }
 
-.profile {
-    width: 40%;
-    border: 1px solid #333;
-}
-
-.contact {
-    width: 40%;
-    border: 1px solid #333;
-}
-
-.skills {
-    width: 40%;
-    border: 1px solid #333;
-}
-
-.education {
-    width: 60%;
-    border: 1px solid #333;
-}
-
-.experience {
-    width: 60%;
-    border: 1px solid #333;
-}
-
-.software {
-    width: 60%;
-    border: 1px solid #333;
+.right {
+    width: 55%;
 }
