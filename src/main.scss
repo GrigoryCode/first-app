@@ -30,35 +30,36 @@
     flex-wrap: wrap;
     height: 2300px;
     /* Центр по главной оси */
-    justify-content: center;
+    // justify-content: center;
     /* Центр по вторичной оси */
     align-items: center;
 }
 
 .card {
-    width: 35%;
+    width: 40%;
+
 }
 
 .profile {
-    width: 35%;
+    width: 40%;
 }
 
 .contact {
-    width: 35%;
+    width: 40%;
 }
 
 .skills {
-    width: 35%;
+    width: 40%;
 }
 
 .education {
-    width: 50%;
+    width: 60%;
 }
 
 .experience {
-    width: 50%;
+    width: 60%;
 }
 
 .software {
-    width: 50%;
+    width: 60%;
 }

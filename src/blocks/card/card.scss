@@ -1,10 +1,6 @@
-.card {
-  // margin-top: 130px;;
-}
-
 .card__round-outer {
-  width: 360px;
-  height: 360px;
+  width: 355px;
+  height: 355px;
   border: 2px solid #3d6cb0;
   border-radius: 50%;
   margin: auto;
@@ -31,20 +27,22 @@ p.card__name {
   font-weight: 400;
   text-transform: uppercase;
   text-align: center;
-  margin: 50px 0 0 0;
+  margin: 45px 0 0 0;
   height: 58px;
+  letter-spacing: 0.01em;
 }
 
 p.card__surname {
   color: #000000;
   font-family: "Myriad Pro";
-  font-size: 96px;
+  font-size: 95px;
   font-weight: 700;
   text-transform: uppercase;
   text-align: center;
   margin: 0;
   margin-top: 20px;
   height: 67px;
+  letter-spacing: 0.05em;
 }
 
 p.card__job {
