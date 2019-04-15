@@ -1,13 +1,9 @@
-.contact {
-    // margin-top: 70px;
-}
-
-img.contact__img {
+img.software__img {
     display: inline-block;
     vertical-align: middle;
 }
 
-p.contact__title {
+p.software__title {
     // width: 233px;
     height: 56px;
     color: #3d6cb0;
@@ -19,39 +15,38 @@ p.contact__title {
     margin: 0;
 }
 
-hr.contact__line {
+hr.software__line {
     border: none;
     background-color: #3d6cb0;
     height: 8px;
-    width: 261px;
+    width: 482px;
     display: inline-block;
     vertical-align: middle;
     margin: 0;
 }
 
-table.contact__table {
-    margin-top: 40px;
+.softvare__skill {
     display: inline-block;
 }
 
-td.contact__head {
-    // width: 136px;
-    // height: 23px;
-    color: #3d6cb0;
-    font-family: "Myriad Pro";
-    font-size: 32px;
-    font-weight: 700;
-    text-transform: uppercase;
-    height: 80px;
-    width: 200px;
-}
-
-td.contact__text {
-    width: 289px;
-    height: 27px;
+p.software__head {
+    // width: 211px;
+    // height: 29px;
     color: #000000;
     font-family: "Myriad Pro";
-    font-size: 32px;
+    font-size: 40px;
     font-weight: 400;
-    margin-bottom: 70px;
+    text-transform: uppercase;
+}
+
+.software__bar {
+    width: 429px;
+    height: 36px;
+    background-color: #e6e6e6;
+}
+
+.software__bar-inner {
+    width: 391px;
+    height: 36px;
+    background-color: #3d6cb0;
 }
