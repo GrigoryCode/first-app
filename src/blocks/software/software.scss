@@ -12,7 +12,8 @@ p.software__title {
     font-weight: 700;
     display: inline-block;
     vertical-align: middle;
-    margin: 0;
+    margin-left: 26px;
+    letter-spacing: 0.03em;
 }
 
 hr.software__line {
@@ -22,11 +23,17 @@ hr.software__line {
     width: 482px;
     display: inline-block;
     vertical-align: middle;
-    margin: 0;
+    margin-left: 42px;
+}
+
+.software__content {
+    margin-top: 10px;
 }
 
 .softvare__skill {
     display: inline-block;
+    margin-top: 30px;
+    margin-right: 100px;
 }
 
 p.software__head {
@@ -37,12 +44,18 @@ p.software__head {
     font-size: 40px;
     font-weight: 400;
     text-transform: uppercase;
+    margin-left: 10px;
+    // margin-bottom: 10px;
+
 }
 
 .software__bar {
     width: 429px;
     height: 36px;
     background-color: #e6e6e6;
+    margin-left: 10px;
+    margin-top: 20px;
+    // margin-bottom: 50px;
 }
 
 .software__bar-inner {

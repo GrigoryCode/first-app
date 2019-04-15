@@ -28,51 +28,44 @@
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    height: 2300px;
-    justify-content: space-between;
+    height: 2600px;
+    // justify-content: space-between;
     // align-items: center;
     // margin: auto;
-    width: 1920px;
+    // width: 1920px;
 }
 
 .card {
-    width: 35%;
+    width: 40%;
     border: 1px solid #333;
-    margin: 0 2.5%;
 }
 
 .profile {
-    width: 35%;
+    width: 40%;
     border: 1px solid #333;
-    margin: 0 2.5%;
 }
 
 .contact {
-    width: 35%;
+    width: 40%;
     border: 1px solid #333;
-    margin: 0 2.5%;
 }
 
 .skills {
-    width: 35%;
+    width: 40%;
     border: 1px solid #333;
-    margin: 0 2.5%;
 }
 
 .education {
-    width: 50%;
+    width: 60%;
     border: 1px solid #333;
-    margin: 0 2.5%;
 }
 
 .experience {
-    width: 50%;
+    width: 60%;
     border: 1px solid #333;
-    margin: 0 2.5%;
 }
 
 .software {
-    width: 50%;
+    width: 60%;
     border: 1px solid #333;
-    margin: 0 2.5%;
 }

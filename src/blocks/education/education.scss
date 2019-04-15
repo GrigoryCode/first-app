@@ -26,16 +26,17 @@ hr.education__line {
     display: inline-block;
     vertical-align: middle;
     margin-left: 10px;
+    margin-bottom: 4px;
 }
 
 .education__content {
-    margin-top: 46px;
+    margin-top: 44px;
     margin-left: 18px;
 }
 
 li.education__li {
     list-style: square url("./img/circle.png");
-    margin-bottom: 30px;
+    margin-bottom: 28px;
 }
 
 p.education__master {
@@ -72,13 +73,14 @@ p.education__university {
     font-size: 40px;
     font-weight: 400;
     text-transform: uppercase;
-
+    
     margin-left: 24px;
     margin-top: 4px;
+    margin-bottom: 7px;
 }
 
 p.education__text {
-    // width: 860px;
+    width: 880px;
     // height: 80px;
     color: #000000;
     font-family: "Myriad Pro";
