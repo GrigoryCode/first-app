@@ -31,41 +31,48 @@
     height: 2300px;
     justify-content: space-between;
     // align-items: center;
-    width: 1720px;
-    margin: auto;
+    // margin: auto;
+    width: 1920px;
 }
 
 .card {
-    width: 40%;
+    width: 35%;
     border: 1px solid #333;
+    margin: 0 2.5%;
 }
 
 .profile {
-    width: 40%;
+    width: 35%;
     border: 1px solid #333;
+    margin: 0 2.5%;
 }
 
 .contact {
-    width: 40%;
+    width: 35%;
     border: 1px solid #333;
+    margin: 0 2.5%;
 }
 
 .skills {
-    width: 40%;
+    width: 35%;
     border: 1px solid #333;
+    margin: 0 2.5%;
 }
 
 .education {
-    width: 60%;
+    width: 50%;
     border: 1px solid #333;
+    margin: 0 2.5%;
 }
 
 .experience {
-    width: 60%;
+    width: 50%;
     border: 1px solid #333;
+    margin: 0 2.5%;
 }
 
 .software {
-    width: 60%;
+    width: 50%;
     border: 1px solid #333;
+    margin: 0 2.5%;
 }
