@@ -34,3 +34,19 @@ p.skills__header {
     font-weight: 400;
     text-transform: uppercase;
 }
+
+.skills__round {
+    width: 28px;
+    height: 28px;
+    background-color: #3d6cb0;
+    border-radius: 50%;
+    display: inline-block;  
+}
+
+.skills__round-empty {
+    width: 27px;
+    height: 28px;
+    background-color: #e6e6e6;
+    border-radius: 50%;
+    display: inline-block;  
+}
