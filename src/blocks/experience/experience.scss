@@ -12,7 +12,11 @@ p.experience__title {
     font-weight: 700;
     display: inline-block;
     vertical-align: middle;
-    margin: 0;
+
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: 60px;
+    letter-spacing: 0.08em;
 }
 
 hr.experience__line {
@@ -25,8 +29,15 @@ hr.experience__line {
     margin: 0;
 }
 
+.experience__content {
+    margin-top: 70px;
+    margin-left: 18px;
+}
+
 li.experience__li {
     list-style: square url("./img/circle.png");
+    margin-bottom: 30px;
+
 }
 
 p.experience__company {
@@ -38,6 +49,10 @@ p.experience__company {
     font-weight: 700;
     text-transform: uppercase;
     display: inline-block;
+
+    margin-left: 24px;
+    letter-spacing: 0.04em;
+
 }
 
 p.experience__date {
@@ -48,6 +63,8 @@ p.experience__date {
     font-size: 40px;
     font-weight: 400;
     display: inline-block;
+
+    margin-left: 22px;
 }
 
 p.experience__job {
@@ -58,6 +75,9 @@ p.experience__job {
     font-size: 40px;
     font-weight: 400;
     text-transform: uppercase;
+
+    margin-left: 24px;
+    margin-top: 4px;
 }
 
 p.experience__text {
@@ -67,4 +87,7 @@ p.experience__text {
     font-family: "Myriad Pro";
     font-size: 24px;
     font-weight: 400;
+
+    margin-left: 24px;
+    margin-top: 10px;
 }

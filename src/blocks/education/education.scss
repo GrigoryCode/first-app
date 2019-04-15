@@ -5,28 +5,37 @@ img.education__img {
 
 p.education__title {
     // width: 233px;
-    height: 56px;
+    // height: 56px;
     color: #3d6cb0;
     font-family: "Myriad Pro";
-    font-size: 64px;
     font-weight: 700;
     display: inline-block;
     vertical-align: middle;
-    margin: 0;
+
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: 60px;
+    letter-spacing: 0.08em;
 }
 
 hr.education__line {
     border: none;
     background-color: #3d6cb0;
     height: 8px;
-    width: 482px;
+    width: 480px;
     display: inline-block;
     vertical-align: middle;
-    margin: 0;
+    margin-left: 10px;
+}
+
+.education__content {
+    margin-top: 46px;
+    margin-left: 18px;
 }
 
 li.education__li {
     list-style: square url("./img/circle.png");
+    margin-bottom: 30px;
 }
 
 p.education__master {
@@ -38,6 +47,9 @@ p.education__master {
     font-weight: 700;
     text-transform: uppercase;
     display: inline-block;
+
+    margin-left: 24px;
+    letter-spacing: 0.04em;
 }
 
 p.education__date {
@@ -48,6 +60,8 @@ p.education__date {
     font-size: 40px;
     font-weight: 400;
     display: inline-block;
+
+    margin-left: 22px;
 }
 
 p.education__university {
@@ -58,6 +72,9 @@ p.education__university {
     font-size: 40px;
     font-weight: 400;
     text-transform: uppercase;
+
+    margin-left: 24px;
+    margin-top: 4px;
 }
 
 p.education__text {
@@ -67,4 +84,7 @@ p.education__text {
     font-family: "Myriad Pro";
     font-size: 24px;
     font-weight: 400;
+
+    margin-left: 24px;
+    margin-top: 6px;
 }
