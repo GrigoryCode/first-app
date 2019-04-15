@@ -29,37 +29,37 @@
     flex-direction: column;
     flex-wrap: wrap;
     height: 2300px;
-    /* Центр по главной оси */
-    // justify-content: center;
-    /* Центр по вторичной оси */
-    align-items: center;
+    justify-content: space-between;
+    // align-items: center;
+    width: 1720px;
+    margin: auto;
 }
 
 .card {
-    width: 40%;
+    width: 43%;
 
 }
 
 .profile {
-    width: 40%;
+    width: 43%;
 }
 
 .contact {
-    width: 40%;
+    width: 43%;
 }
 
 .skills {
-    width: 40%;
+    width: 43%;
 }
 
 .education {
-    width: 60%;
+    width: 55%;
 }
 
 .experience {
-    width: 60%;
+    width: 55%;
 }
 
 .software {
-    width: 60%;
+    width: 55%;
 }
