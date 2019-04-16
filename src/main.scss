@@ -29,13 +29,22 @@
     display: grid;
     grid-template-columns: 4fr 6fr;
     grid-column-gap: 90px;
-    margin: 0 90px;
-  }
-
-  .left {
-      background-color: bisque;
+    grid-auto-flow: row;
+    margin: 0 85px;
 }
 
-  .right {
-    background-color: bisque;
+@media (max-width: 1915px) {
+    hr {
+        width: 100% !important;
+        margin: 40px 0 0 0 !important;
+    }
 }
+
+@media (max-width: 1160px) {
+    .content {
+        display: grid;
+        grid-template-columns: 1fr;
+        margin: 0 7%;
+    }
+}
+

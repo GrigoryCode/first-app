@@ -1,16 +1,14 @@
 .profile__top {
-    margin: 110px auto 0 auto;
+    margin: 110px 5px 0 10px;
 }
 
 img.profile__img {
     display: inline-block;
     vertical-align: middle;
     fill: red;
-    margin: 0 10px 0 0px;
 }
 
 p.profile__title {
-    // width: 233px;
     height: 1em;
     color: #3d6cb0;
     font-family: "Myriad Pro";
@@ -19,7 +17,7 @@ p.profile__title {
     display: inline-block;
     vertical-align: middle;
     letter-spacing: 0.08em;
-    margin: 0 6px 0 6px;
+    margin: 0 6px 0 13px;
 }
 
 hr.profile__line {
@@ -29,20 +27,17 @@ hr.profile__line {
     width: 261px;
     display: inline-block;
     vertical-align: middle;
-    margin: 0 0 0 4px;
 }
 
 p.profile__text {
-    // width: 645px;
-    // height: 367px;
     color: #000000;
     font-family: "Myriad Pro";
     font-size: 24px;
     font-weight: 400;
     line-height: 1.2;
-    margin: 20px auto 20px auto;
+    margin: 20px 6px 20px 10px;
 }
 
-// div.profile__content p strong {
-//     letter-spacing: 0.03em;
-// }
+div.profile__content p strong {
+    letter-spacing: 0.03em;
+}

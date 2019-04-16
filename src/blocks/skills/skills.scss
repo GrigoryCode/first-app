@@ -1,5 +1,5 @@
 .skills__top {
-    margin: 40px 5px 20px 5px; 
+    margin: 50px 5px 20px 10px; 
 }
 
 img.skills__img {
@@ -8,15 +8,13 @@ img.skills__img {
 }
 
 p.skills__title {
-    // width: 233px;
-    // height: 56px;
     color: #3d6cb0;
     font-family: "Myriad Pro";
     font-size: 64px;
     font-weight: 700;
     display: inline-block;
     vertical-align: middle;
-    margin: 10px 0 0 17px;
+    margin: 10px 0 5px 10px;
     letter-spacing: 0.05em;
 }
 
@@ -27,12 +25,11 @@ hr.skills__line {
     width: 295px;
     display: inline-block;
     vertical-align: middle;
-    margin: 0 0 0 15px;
+    margin: 0 0 5px 20px;
 }
 
 .skills__content {
-    margin: 40px 40px 20px 40px;
-    // width: 515px;
+    margin: 35px 40px 100px 45px;
 }
 
 .skills__item {
@@ -40,8 +37,6 @@ hr.skills__line {
 }
 
 p.skills__header {
-    // width: 154px;
-    // height: 28px;
     color: #000000;
     font-family: "Myriad Pro";
     font-size: 40px;

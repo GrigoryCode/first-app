@@ -1,3 +1,8 @@
+.card {
+  margin-left: 20px;
+  box-sizing: content-box;
+}
+
 .card__round-outer {
   width: 355px;
   height: 355px;
@@ -28,7 +33,7 @@ p.card__name {
   font-family: "Myriad Pro Light Semi Ext";
   font-weight: 400;
   text-align: center;
-  height: 1em;
+  height: 0.9em;
   margin-top: 48px;
 }
 
@@ -48,5 +53,5 @@ p.card__job {
   font-size: 39px;
   font-weight: 700;
   text-align: center;
-  margin: 10px 0;
+  margin: 20px 0;
 }
