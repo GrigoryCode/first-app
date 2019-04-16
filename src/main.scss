@@ -25,21 +25,32 @@
 }
 
 .content {
+    max-width: 1920px;
+    margin: 0 90px;
     display: flex;
-    flex-direction: column;
     flex-wrap: wrap;
-    height: 2570px;
-    // justify-content: space-around;
-    // align-items: center;
-    // margin: auto;
-    // width: 1720px;
-    // margin: 0 100
 }
 
 .left {
-    width: 35%;
+    width: 40%;
 }
 
 .right {
-    width: 55%;
+    width: 60%;
+}
+
+@media (max-width: 1200px) {
+    .content {
+        display: block;
+    }
+
+    .left {
+        width: 100%;
+        margin: auto;
+    }
+    
+    .right {
+        width: 100%;
+        margin: auto;
+    }
 }

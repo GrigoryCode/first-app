@@ -1,5 +1,5 @@
 .profile__top {
-    // margin-top: 60px;
+    margin: 110px auto 0 auto;
 }
 
 img.profile__img {
@@ -19,7 +19,7 @@ p.profile__title {
     display: inline-block;
     vertical-align: middle;
     letter-spacing: 0.08em;
-    margin: 0 6px 2px 6px;
+    margin: 0 6px 0 6px;
 }
 
 hr.profile__line {
@@ -29,18 +29,18 @@ hr.profile__line {
     width: 261px;
     display: inline-block;
     vertical-align: middle;
-    margin: 0 0 6px 4px;
+    margin: 0 0 0 4px;
 }
 
 p.profile__text {
-    width: 645px;
+    // width: 645px;
     // height: 367px;
     color: #000000;
     font-family: "Myriad Pro";
     font-size: 24px;
     font-weight: 400;
     line-height: 1.2;
-    margin: 20px 0 0 0px;
+    margin: 20px auto 20px auto;
 }
 
 // div.profile__content p strong {

@@ -1,3 +1,7 @@
+.education__top {
+    margin: 120px 30px 0 70px;
+}
+
 img.education__img {
     display: inline-block;
     vertical-align: middle;
@@ -15,7 +19,7 @@ p.education__title {
     margin-left: 30px;
     margin-top: 10px;
     font-size: 60px;
-    letter-spacing: 0.08em;
+    letter-spacing: 0.07em;
 }
 
 hr.education__line {
@@ -30,8 +34,7 @@ hr.education__line {
 }
 
 .education__content {
-    margin-top: 44px;
-    margin-left: 18px;
+    margin: 44px 60px 20px 100px;
 }
 
 li.education__li {
@@ -80,7 +83,7 @@ p.education__university {
 }
 
 p.education__text {
-    width: 880px;
+    // width: 880px;
     // height: 80px;
     color: #000000;
     font-family: "Myriad Pro";
