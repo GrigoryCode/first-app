@@ -1,11 +1,14 @@
+.experience__top {
+    margin: 85px 0 0 0;
+}
+
 img.experience__img {
     display: inline-block;
     vertical-align: middle;
+    margin-left: 15px;
 }
 
 p.experience__title {
-    // width: 233px;
-    height: 56px;
     color: #3d6cb0;
     font-family: "Myriad Pro";
     font-size: 64px;
@@ -13,7 +16,7 @@ p.experience__title {
     display: inline-block;
     vertical-align: middle;
 
-    margin-left: 30px;
+    margin-left: 20px;
     margin-top: 10px;
     font-size: 60px;
     letter-spacing: 0.08em;
@@ -23,7 +26,7 @@ hr.experience__line {
     border: none;
     background-color: #3d6cb0;
     height: 8px;
-    width: 482px;
+    width: 470px;
     display: inline-block;
     vertical-align: middle;
     margin: 0;
@@ -31,18 +34,16 @@ hr.experience__line {
 
 .experience__content {
     margin-top: 64px;
-    margin-left: 18px;
+    margin-left: 30px;
 }
 
 li.experience__li {
     list-style: square url("./img/circle.png");
-    margin-bottom: 24px;
+    margin-bottom: 20px;
 
 }
 
 p.experience__company {
-    // width: 298px;
-    // height: 28px;
     color: #000000;
     font-family: "Myriad Pro";
     font-size: 40px;

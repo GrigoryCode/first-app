@@ -1,10 +1,11 @@
 .education__top {
-    // margin: 120px 30px 0 70px;
+    margin: 120px 0 0 0;
 }
 
 img.education__img {
     display: inline-block;
     vertical-align: middle;
+    margin-left: 15px;
 }
 
 p.education__title {
@@ -16,7 +17,7 @@ p.education__title {
     display: inline-block;
     vertical-align: middle;
 
-    margin-left: 30px;
+    margin-left: 25px;
     margin-top: 10px;
     font-size: 60px;
     letter-spacing: 0.07em;
@@ -26,20 +27,20 @@ hr.education__line {
     border: none;
     background-color: #3d6cb0;
     height: 8px;
-    width: 480px;
+    width: 470px;
     display: inline-block;
     vertical-align: middle;
-    margin-left: 10px;
+    margin-left: 15px;
     margin-bottom: 4px;
 }
 
 .education__content {
-    // margin: 44px 60px 20px 100px;
+    margin: 44px 20px 20px 30px;
 }
 
 li.education__li {
     list-style: square url("./img/circle.png");
-    margin-bottom: 28px;
+    margin-bottom: 25px;
 }
 
 p.education__master {
