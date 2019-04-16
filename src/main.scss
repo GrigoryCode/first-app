@@ -26,31 +26,16 @@
 
 .content {
     max-width: 1920px;
+    display: grid;
+    grid-template-columns: 4fr 6fr;
+    grid-column-gap: 90px;
     margin: 0 90px;
-    display: flex;
-    flex-wrap: wrap;
+  }
+
+  .left {
+      background-color: bisque;
 }
 
-.left {
-    width: 40%;
-}
-
-.right {
-    width: 60%;
-}
-
-@media (max-width: 1200px) {
-    .content {
-        display: block;
-    }
-
-    .left {
-        width: 100%;
-        margin: auto;
-    }
-    
-    .right {
-        width: 100%;
-        margin: auto;
-    }
+  .right {
+    background-color: bisque;
 }
