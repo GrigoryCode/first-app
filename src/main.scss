@@ -40,11 +40,17 @@
     }
 }
 
+// @media (max-width: 1160px) {
+//     .content {
+//         display: grid;
+//         grid-template-columns: 1fr;
+//         margin: 0 7%;
+//     }
+// }
+
 @media (max-width: 1160px) {
     .content {
-        display: grid;
-        grid-template-columns: 1fr;
+        display: block;
         margin: 0 7%;
     }
 }
-
